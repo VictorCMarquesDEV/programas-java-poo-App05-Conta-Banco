@@ -1,4 +1,4 @@
-package App05;
+package app05;
 
 public class ContaBanco {
 	public int numConta;
